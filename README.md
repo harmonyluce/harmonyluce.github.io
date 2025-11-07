@@ -1,5 +1,7 @@
 ## Lesson 1: Data and Python
 
+### Data
+
 ## Lesson 2: Summaries and Plots
 
 ## Lesson 3: Set Theory and Sources of Probability
